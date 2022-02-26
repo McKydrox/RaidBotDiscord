@@ -67,4 +67,4 @@ async def raid(ctx):
         await ctx.send('@everyone')
         await ctx.send('@everyone')
 #TOKEN     
-bot.run('OTM1NjI2MzAyNjc1ODk4Mzc4.YfBX5Q.4dqXLpk-klzvXg06rzKk_FVUgk4')
+bot.run('YOUR TOKEN')
